@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bouzarti Khaoula</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-(img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif")
+(img align="right" alt="Coding" width="400" src="https://makeagif.com/media/4-05-2022/FvBVst.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouzartikhaoula&label=Profile%20views&color=0e75b6&style=flat" alt="bouzartikhaoula" /> </p>
